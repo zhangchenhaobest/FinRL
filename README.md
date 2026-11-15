@@ -1,3 +1,29 @@
+# FinRL
+
+[English](#english) | [简体中文](#简体中文)
+
+---
+
+## English
+
+FinRL®:  Financial Reinforcement Learning. 🔥
+
+> This repository is a fork. For full documentation, see the upstream repository.
+
+[简体中文](#简体中文)
+
+---
+
+## 简体中文
+
+金融强化学习框架 FinRL。
+
+> 本项目为 fork，详细文档请以原仓库为准。
+
+[English](#english)
+
+---
+
 <div align="center">
 <img align="center" width="30%" alt="image" src="https://github.com/AI4Finance-Foundation/FinGPT/assets/31713746/e0371951-1ce1-488e-aa25-0992dafcc139">
 </div>
